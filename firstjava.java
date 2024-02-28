@@ -2,7 +2,7 @@
     {
       public static void main(String[] args)
        {
-         System.out.pritnln("Hello! Welcome to Jenkins!") ;
+         System.out.println("Hello! Welcome to Jenkins!") ;
        }
     }
 
